@@ -4,7 +4,7 @@ Programmer pour l'équipe de robotique Cyborgbulls (FIRST Robotics Competition T
 
 .. note::
 
-   This project is under active development.
+   En cours de création
 
 Contents
 --------
